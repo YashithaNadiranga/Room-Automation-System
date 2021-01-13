@@ -4,10 +4,10 @@
 
 #include <ESP8266WiFi.h>
 
-#define FIREBASE_HOST "room-automation-28ec2.firebaseio.com"
-#define FIREBASE_AUTH "qhGzyp5n318UST0gdGkQ69HXeNRMeEg3besrtwZo"
-#define WIFI_SSID "Yashitha"
-#define WIFI_PASSWORD "ymax26574ymax"
+#define FIREBASE_HOST "-"
+#define FIREBASE_AUTH "-"
+#define WIFI_SSID "-"
+#define WIFI_PASSWORD "-"
 
 FirebaseData firebaseData;
 String arrays;
